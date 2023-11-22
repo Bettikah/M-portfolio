@@ -1,0 +1,53 @@
+body{
+    background-color: hsl(226, 100%, 79%);
+}
+.nav_link{
+    position: relative;
+    margin: 0 4px;
+    padding: 10px;
+    text-align: end;
+    font-size: 130%;
+}
+.one{
+    width: 50%;
+    font-size: 130%;
+}
+.two{
+    width: 50%;
+}
+#edu{
+    font-size: 130%;
+}
+.extra{
+    font-size: 130%;
+}
+.skills{
+    font-size: 130%;
+    position: absolute;
+    left: 700px;
+}
+.three{
+    background-image: url(/images/me2.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 20%;
+    height: 40vh;
+    border-radius: 20%;
+    transform: translateY(60px);
+}
+
+.icon{
+    margin: 20px;
+    transform: translate(400px, -100px);
+}
+.fa-solid fa-phone{
+    color: brown;
+}
+.fa-solid fa-envelope{
+    color: brown;
+}
+.icon button{
+    padding: 5px;
+    background-color: hsl(226, 100%, 79%);
+    border-radius: 10px;
+}
